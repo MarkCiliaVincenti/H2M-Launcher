@@ -1069,7 +1069,7 @@
 
     <Style x:Key="ServerDataGridStyle" TargetType="DataGrid">
         <Setter Property="RowBackground" Value="Transparent"/>
-        <Setter Property="Background" Value="{DynamicResource DialogBackground}"/>
+        <Setter Property="Background" Value="{DynamicResource TransparentDark900}"/>
         <Setter Property="Opacity" Value="0.9"/>
         <Setter Property="BorderThickness" Value="0"/>
     </Style>
